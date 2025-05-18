@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
-### Name: MONISH R
-### Reference Number: 212223220061
+### NAME : MONISH R
+### REG NO : 212223220061
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
