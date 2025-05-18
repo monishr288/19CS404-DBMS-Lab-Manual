@@ -1,8 +1,6 @@
 # Experiment 1: Entity-Relationship (ER) Diagram
-```
-Name: MONISH R
-Reg No: 212223220061
-```
+### NAME : MONISH R
+### REG NO : 212223220061
 ## Scenario Chosen:
 University
 
